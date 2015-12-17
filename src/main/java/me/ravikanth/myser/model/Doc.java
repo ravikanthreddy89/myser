@@ -6,7 +6,8 @@ import java.util.Map;
  * Created by ragudipati on 11/22/15.
  */
 public class Doc {
-    Map<String, String> fields;
+
+    private Map<String, String> fields;
 
     public Map<String, String> getFields() {
         return fields;
